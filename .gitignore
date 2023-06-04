@@ -61,3 +61,4 @@ env.yml
 /lisa_3/
 /notebooks/.ipynb_checkpoints/
 .DS_Store
+sample_images
